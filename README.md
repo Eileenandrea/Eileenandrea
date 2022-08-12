@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eileen</h1>
 </hr>
-<h3 align="center">An aspiring web. Currently a student at Avion School Studying Full Stack Development</h3>
+<h3 align="center"> A Web Developer. Currently focus more on Front End Development(React Dev)</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eileenandrea" alt="Eileenandrea" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://eileenandrea.github.io/batch6-activities/)
+- 🔭 I’m currently at Booky
 
-- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **Eileendeguzman.edg@gmail.com**
 
